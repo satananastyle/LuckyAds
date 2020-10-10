@@ -319,6 +319,10 @@ select {
   font-size: 14px;
   line-height: 116.75%;
 
+  background-image: url("../img/arrow.svg");
+  background-repeat: no-repeat;
+  background-position: right 16px center;
+  background-size: 12px 7px;
   border: 1px solid #089c84;
   border-radius: 2px;
 }
